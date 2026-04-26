@@ -1,0 +1,6 @@
+.idea/
+.claude/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.tmc_test_results.json
